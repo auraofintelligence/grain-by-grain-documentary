@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en-AU">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A curated map showing which local repos can feed which parts of The Long Game documentary.">
+    <meta property="og:title" content="Repo field map | The Long Game">
+    <meta property="og:description" content="A first-pass, local-action, imagination and production map through the documentary source repos.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://auraofintelligence.github.io/grain-by-grain-documentary/assets/img/og-card.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <title>Repo field map | The Long Game</title>
+    <link rel="stylesheet" href="assets/css/site.css?v=20260801-1">
+  </head>
+  <body data-page="field-map">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header"><div class="header-inner">
+      <a class="brand" href="index.html" aria-label="The Long Game home"><span class="brand-mark" aria-hidden="true"></span><span class="brand-copy"><small>Grain by grain</small><strong>The Long Game</strong></span></a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-navigation">Menu</button>
+      <nav class="site-nav" id="site-navigation" aria-label="Main navigation"><a data-page="home" href="index.html">Home</a><a data-page="runtime" href="runtime.html">90-minute map</a><a data-page="field-map" href="field-map.html">Repo field map</a><a data-page="playbook" href="playbook.html">Life playbook</a><a data-page="production" href="production.html">Production</a><a data-page="boundaries" href="boundaries.html">Boundaries</a></nav>
+    </div></header>
+
+    <main id="main" class="page-shell">
+      <section class="page-intro">
+        <div><p class="eyebrow">Curated from the local repo garden</p><h1>Open the source that helps the scene.</h1></div>
+        <p>The Field Library helped find relationships. This map keeps the first pass small, then opens supporting shelves when a scene, claim or production job asks for more.</p>
+      </section>
+
+      <div class="callout">
+        <strong>A relationship is a lead, not a receipt.</strong>
+        The map says where an idea might help. Consequential narration can return to a suitable primary, scientific, cultural, government, organisational or first-hand source.
+      </div>
+
+      <div class="filter-bar" aria-label="Filter projects by role">
+        <button class="filter-button" type="button" data-field-filter="core" aria-pressed="true">First pass</button>
+        <button class="filter-button" type="button" data-field-filter="action" aria-pressed="false">Local action</button>
+        <button class="filter-button" type="button" data-field-filter="imagination" aria-pressed="false">Imagination</button>
+        <button class="filter-button" type="button" data-field-filter="production" aria-pressed="false">Production</button>
+        <button class="filter-button" type="button" data-field-filter="all" aria-pressed="false">Show the curated set</button>
+      </div>
+
+      <div class="field-summary"><p data-field-count aria-live="polite"></p><p>Start with First pass.</p></div>
+      <section class="field-grid" data-field-grid aria-label="Documentary repo cards"></section>
+
+      <nav class="footer-nav" aria-label="Previous and next pages">
+        <a href="runtime.html"><span>Previous</span><strong>90-minute map</strong></a>
+        <a href="playbook.html"><span>Next</span><strong>Life playbook</strong></a>
+      </nav>
+    </main>
+
+    <footer class="site-footer"><div class="footer-inner"><p>The Strange But True Field Library remains a research index. Direct source reading and fresh evidence checks shape the film.</p><a href="docs/repo-source-map.md">Open the short Markdown map</a></div></footer>
+    <script src="assets/js/site.js?v=20260801-1"></script>
+    <script src="assets/js/field-map.js?v=20260801-1"></script>
+  </body>
+</html>
