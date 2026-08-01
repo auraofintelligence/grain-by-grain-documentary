@@ -23,6 +23,19 @@ https://auraofintelligence.github.io/grain-by-grain-documentary/
 - `docs/repo-source-map.md` - the short source-repo order and intended use
 - `docs/evidence-register.md` - claim labels and first research questions
 
+## Visual concept set
+
+The six page heroes are original GenAI concept images created for this treatment, then converted to lightweight WebP files. They suggest the film's visual language; they are not documentary evidence, records of actual events or portraits of project participants.
+
+- `assets/img/hero-home.webp` - island shore, dawn, night sky and the human-scale doorway
+- `assets/img/hero-runtime.webp` - local life, weather pressure and the cosmic scale journey
+- `assets/img/hero-field-map.webp` - source work, film tools, maps and connected research trails
+- `assets/img/hero-playbook.webp` - hands, tactile choices and a non-competitive life-strategy board
+- `assets/img/hero-production.webp` - a community film crew testing a scene by the bay
+- `assets/img/hero-boundaries.webp` - a protected research threshold between record, reflection and story
+
+The favicon uses one golden grain where a teal tide meets dark, star-speckled sand. PNG, ICO and Apple touch versions sit together in `assets/img/`.
+
 ## Source posture
 
 The Strange But True Field Library helped locate relationships across the local repo garden. It is a research index, not proof that a claim is current or correct. Film claims can be checked against primary and local sources during scripting.
