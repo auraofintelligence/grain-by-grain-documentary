@@ -4,123 +4,123 @@
 
 ### Working promise
 
-What if preparing for life's pressures felt less like waiting for disaster and more like learning a shared game: one where food, water, energy, knowledge, shelter, trust and imagination become skills that help life continue?
+What if one civilisation project could answer the full existential-threat field while improving life from its first useful build?
 
-The film starts small on Minjerribah / North Stradbroke Island, expands through South East Queensland and Australia, reaches into global and cosmic risk, then returns to the next practical move.
+The film begins with life and death, emergence and entropy, and the possibility that civilisation's calm interval is unusually brief. It takes ordinary, frontier, disputed, mythic and science-fiction threats seriously without pretending they share the same evidence. It then grounds the response at Gumpi / Dunwich: a park-and-ride tunnel loop, useful community infrastructure made from its sand, transport and service corridors between towns, subterranean industry, and eventually a closed-loop generation city beneath the Straddie-Moreton island system.
 
-This is not an apocalypse countdown. The pressure creates the question; living systems and human choice remain the subject.
+The destination is GAJRA Earth. Survival is the floor; joyful responsible abundance is the reason to continue. Growth is earned by solving present problems, caring for Country and making a good next step easier to choose.
 
 ## Seven acts, 90 minutes
 
-### Act 1 - The pulse (0:00-9:00)
+### Act 1 — The quiet anomaly (0:00–9:00)
 
-**Question:** Why does life keep making order inside a universe that also pulls things apart?
+**Question:** What if the calm civilisation grew inside is the unusual part?
 
-**Story:** Day and night, breath in and breath out, birth and death, building and decay. Yin and yang become a visual doorway rather than a lecture. A grain of sand is worn down and becomes material for another form.
+**Story:** Tide, breath, birth, death, growth, erosion and repair open the film. A grain of sand moves between breakdown and new form. The stable conditions in which farming, cities and modern memory arose become a question rather than a permanent assumption.
 
-**Possible images:** shore at dawn and dusk; tide lines; seed growth; rust; repair; hands sorting shells and sand; a town waking.
+**Possible images:** shore at dawn and dusk; seed growth; ice and climate records; erosion; repair; a town waking.
 
-**Audio:** a pulse assembled from tide, ferry engine, wind, insects and human breath.
+**Source shelf:** `micronova-and-excursions`, `grain-by-grain`, `GAJRA-earth-infinity`.
 
-**Source shelf:** `grain-by-grain`, `civilisation-of-sand`, `GAJRA-earth`.
+**Evidence posture:** philosophy, observed records and frontier interpretations retain separate labels.
 
-**Evidence posture:** philosophy and visual metaphor are clearly separated from scientific claims.
+### Act 2 — The whole threat field (9:00–21:00)
 
-### Act 2 - The island is a world (9:00-22:00)
+**Question:** What would we design if no scenario was discarded before its load was understood?
 
-**Question:** What does an island reveal about the systems that keep ordinary life moving?
+**Story:** Storm, fire, pandemic, supply failure, war, AI, nuclear exchange, supervolcano, asteroid impact, geomagnetic excursion and solar micronova enter one field. Mythic floods and science-fiction unknowns enter too, labelled as story or speculation. The useful comparison is what fails, how long the surface could be hostile and which capabilities endure.
 
-**Story:** Follow a meal, medicine, a phone signal, electricity and a person across the bay. The ferry gateway makes dependence visible. Country is not a blank test site; living culture, ecology, authority and consent shape what can happen.
+**Possible images:** severe weather; supply systems; grids; scientific instruments; old stories; clearly marked models and simulations.
 
-**Possible images:** Gumpi ferry movements; shop deliveries; water, power and communications routes; community places; wildlife crossings; sea and dune edges.
+**Source shelf:** `grain-by-grain/threats.html`, `micronova-and-excursions`, `strange-but-true-cosmic-nexus`, `strange-but-true-ai-trust-index`.
 
-**Source shelf:** `dunwich-gumpi-ferry-terminal-open-data-lab`, `grain-by-grain`, `strange-but-true/community-ledger.html`, `wildlife-rescue-minjerribah`.
+**Evidence posture:** established, source-backed local, modelled, disputed, speculative, story and needs checking remain visible. Minority theories receive their strongest available case and a fair test, not automatic belief or dismissal.
 
-**Evidence posture:** location facts, infrastructure claims and cultural framing are checked with suitable primary and local sources.
+### Act 3 — Begin at Gumpi (21:00–34:00)
 
-### Act 3 - When the weather arrives (22:00-36:00)
+**Question:** Can the first tunnel solve problems the island already feels?
 
-**Question:** Which preparations help across storms, fire, flood, heat and blackout?
+**Story:** Ferry arrivals reveal parking peaks, buses, freight, pedestrians, thin after-hours transport, road wear and wildlife strikes. A Dunwich park-and-ride tunnel loop becomes the first physical move. It is useful infrastructure in its own right, not a miniature version of the final city.
 
-**Story:** Storm-season jobs provide the grounded entry. A bushfire memory and severe-weather sequence show how quickly normal life changes. The film notices the common needs underneath different hazards: power, water, food, communications, shelter and familiar people.
+**Possible images:** ferry movements; car queues; bus and freight movements; road repairs; wildlife crossings; public maps; a possible loop drawn beneath the gateway.
 
-**Possible images:** gutter cleaning, battery checks, water storage, fire breaks, emergency information, a kiosk in normal use, community drills, weather moving over the bay.
+**Source shelf:** `dunwich-gumpi-ferry-terminal-open-data-lab`, `Sandworm-subterranean-systems/start.html`, `grain-by-grain/corridor.html`, `wildlife-rescue-minjerribah`.
 
-**Source shelf:** `grain-by-grain/threats.html`, `grain-by-grain/prepared.html`, `straddie-disaster-kiosks`, `Minjerribah-Resilience`, `shared-table-initiative`.
+**Evidence posture:** a public question and design concept, not an approved route, transport promise or claim of site control.
 
-**Evidence posture:** public safety details are refreshed against current Queensland and council guidance before filming or release.
+### Act 4 — The tunnel makes supply (34:00–48:00)
 
-### Act 4 - The storms without weather (36:00-50:00)
+**Question:** What can the removed sand become before anyone calls it waste?
 
-**Question:** What changes when the shock comes through trade, politics, technology or trust?
+**Story:** Excavation opens two projects at once: useful space below and a material tree above. Tested streams could feed tunnel lining, community buildings, pavers, glass, ceramics, thermal storage, reef forms, dune support, erosion control, possible new land and industrial feedstocks. The film also shows energy costs, contaminants, ecological limits and material with no safe use yet.
 
-**Story:** Empty shelves, supply-chain interruptions, war, pandemic isolation, cyber disruption and artificial intelligence share some consequences with natural hazards, while their causes and ethics differ. The film avoids folding them into one simple enemy.
+**Possible images:** sand separation; mineral close-ups; laboratory tests; blocks; glass; public infrastructure; reef forms; coastline models.
 
-**Possible images:** ferry freight, shelves, repair benches, network maps, headlines shown with source and date, an AI comparison table, people checking information together.
+**Source shelf:** `grain-by-grain/alchemy.html`, `grain-by-grain/materials.html`, `mineral-moonshots`, `straddie-clean-energy-superpower`, `straddie-makerspace-lab`, `Minjerribah-Resilience`.
 
-**Source shelf:** `straddie-tip-loop-lab`, `straddie-makerspace-lab`, `strange-but-true-ai-trust-index`, `moreton-bay-community-wealth-and-mutuals`, `p4a_xyz`.
+**Evidence posture:** “nothing spoiled” is a research direction. Each branch carries composition, testing, energy, lifecycle, cultural and ecological conditions.
 
-**Evidence posture:** current affairs and AI claims are dated, sourced and checked close to release.
+### Act 5 — Connect the island underneath (48:00–62:00)
 
-### Act 5 - The community skill tree (50:00-66:00)
+**Question:** When does a transport tunnel become the island's protected service and industrial spine?
 
-**Question:** What can people practise in calm times that remains useful in hard times?
+**Story:** Corridors extend towards Amity and Point Lookout where they continue helping. Transport shares depth with water, power, communications, freight and maintenance. Workshops, storage, mineral processing, fabrication, food and repair systems grow beside the line. Each section solves another present problem and leaves capability for another decision.
 
-**Story:** The film becomes participatory. Food sharing, repair, local energy, offline information, neighbour trust, creative media and shared records appear as optional quest lines. Preparation is gamified; harm is not.
+**Possible images:** town-to-town sections; autonomous transit; service galleries; workshops; storage; repair; subterranean industry.
 
-**Possible images:** community table, maker bench, repaired object, rooftop solar, noticeboard, simple map, small group learning, local event or screening.
+**Source shelf:** `Sandworm-subterranean-systems`, `civilisation-of-sand`, `grain-by-grain/corridor.html`, `grain-by-grain/tunnels.html`, energy, tip-loop and community-wealth repos.
 
-**Source shelf:** `strange-but-true/community-ledger.html`, `shared-table-initiative`, `straddie-makerspace-lab`, `straddie-clean-energy-superpower`, `straddie-noticeboard-network`, `ready-set-co-op-trust-hub`.
+**Evidence posture:** routes and systems remain open to geotechnical, ecological, cultural, legal and community challenge.
 
-**Evidence posture:** proposals remain proposals. Participation stays voluntary and real roles are described with consent.
+### Act 6 — A civilisation worth protecting (62:00–78:00)
 
-### Act 6 - Deep time and the old stories (66:00-80:00)
+**Question:** Can the network grow into a 20-million-person worldship without becoming a bunker society?
 
-**Question:** How can science, uncertainty, mythology and science fiction share a film without pretending to be the same kind of evidence?
+**Story:** Deep districts, closed loops, industry, heat rejection, archives and redundancy meet housing, health, education, culture, nature, music, sport, love and play. Direct-hit nuclear cases, non-direct asteroid impacts, long surface loss and unknown threats test the structure without defining its culture. GAJRA Earth becomes the essence: joyful responsible abundance carried seven generations forward.
 
-**Story:** Solar storms, asteroid impacts and volcanic winters open the deep-time door. Ancient stories and modern contact narratives show how people rehearse the unknown. Science fiction becomes a safe simulation space. Labels stay visible: established, modelled, disputed, speculative or story.
+**Possible images:** living underground districts; gardens; water; workshops; classrooms; art; sport; celebration; a small and careful surface interface.
 
-**Possible images:** night sky, geological textures, old maps and public-domain archives, instrument data, a clearly marked simulation, community-made storyboards.
+**Source shelf:** `civilisation-of-sand`, `GAJRA-earth-infinity`, `grain-by-grain`, `micronova-and-excursions/build.html`, `Sandworm-subterranean-systems`.
 
-**Source shelf:** `grain-by-grain/threats.html`, `strange-but-true-cosmic-nexus`, `strange-intelligence-index`, `mineral-moonshots`, `space-weather-news`, `civilisation-of-sand`.
+**Evidence posture:** 20 million is a design horizon. Geotechnics, heat, water, energy, safety, Country, culture, consent, governance and desire remain open design questions.
 
-**Evidence posture:** extraordinary claims do not borrow the authority of established science. Cultural stories are not mined as generic content.
+### Act 7 — Test, fund, extend (78:00–90:00)
 
-### Act 7 - Play the next turn (80:00-90:00)
+**Question:** What makes the next stage an evidence-backed choice rather than a leap of faith?
 
-**Question:** If nobody can control the whole board, what is one useful move?
+**Story:** The film returns to public data, material samples, simulations, review rooms and one fundable research wedge: earthquake prediction using the solar, ionospheric, cosmic-ray and seismic data stack that can also test the frontier theories. The ending follows the next useful length of corridor rather than declaring the worldship inevitable.
 
-**Story:** The scale folds back down: civilisation, nation, region, island, street, household, person, breath. Viewers meet a set of possible next moves rather than a command. The close echoes the opening tide: entropy continues, and life continues organising too.
+**Possible images:** public models; source trails; instruments; a sand sample; community review; a first portal; a line continuing beneath the island.
 
-**Possible images:** people choosing small projects; a community screening; a hand writing a first quest; sunset becoming dawn.
+**Final line:** Solve what is here. Leave Country richer. Make the next step easier. Build for seven generations.
 
-**Source shelf:** `film-club-documentary-builders`, `quandamooka-film-festival`, `minjerribah-screen-media-network`, `ready-set-co-op-hyperlocal-media`, `straddie-content-assets-kit`.
+**Source shelf:** `micronova-and-excursions/earthquakes.html`, `micronova-and-excursions/test.html`, `film-club-documentary-builders`, `dunwich-gumpi-ferry-terminal-open-data-lab`, grants work and `GAJRA-earth-infinity`.
 
-**Evidence posture:** the final call invites participation without promising safety, consensus or completion.
+**Evidence posture:** the film offers a direction, tests and open doors—not forced belief, guaranteed expansion or a command to participate.
 
 ## Recurring film grammar
 
-- **Scale fold:** person -> household -> street -> island -> region -> Australia -> planet -> deep time -> person.
-- **Two lanes:** what can be built or practised; what can be explored through screen and story.
-- **Evidence card:** source, date, place, status and open question appear beside consequential claims.
-- **Quest card:** a small optional action follows a large risk sequence.
-- **Return image:** sand, tide, breath and repair connect the acts.
+- **Build chain:** present problem → useful infrastructure → material and skill dividend → easier next decision → seven-generation horizon.
+- **Threat load:** compare scenarios by failure mode, duration and shared response while keeping cause and evidence distinct.
+- **Evidence card:** source, date, place, status, strongest support, strongest challenge and open test.
+- **Quest card:** a voluntary role or research move attached to the real build sequence.
+- **GAJRA check:** does this move widen joy, responsibility and abundance as well as survival?
+- **Return image:** sand, tide, tunnel, growing light and ordinary life connect the acts.
 
 ## People and voices to consider
 
-These are role ideas, not a contact list or a claim of participation:
+These are role ideas, not a contact list or claim of participation:
 
-- Quandamooka cultural authority and knowledge holders, invited early and able to shape or refuse use
-- local emergency and recovery practitioners
-- ferry-dependent residents, workers and small businesses
-- food, repair, energy and communications organisers
-- young people and elders considering what resilience means to them
-- a South East Queensland climate or infrastructure researcher
-- an Australian supply-chain, peace or civic-systems voice
-- an AI safety, trust or open-source practitioner
-- an astronomer, geologist or space-weather specialist
-- a myth, story or screen practitioner who can explain fiction as rehearsal
+- suitable Quandamooka cultural authority and knowledge holders, invited early and able to shape or refuse use
+- Dunwich residents, workers, visitors, transport operators and local businesses
+- transport, tunnelling, geotechnical, groundwater and underground-safety practitioners
+- material scientists, mineral processors, builders, reef and coastal-restoration practitioners
+- closed-loop food, water, energy, heat and waste-system designers
+- emergency, nuclear-effects, asteroid, space-weather and resilience researchers
+- researchers able to present both the strongest micronova or excursion case and its strongest scientific challenges
+- governance, culture, health, education, art, sport and community voices able to test whether the city is worth living in
+- documentary, simulation, visual-effects and story practitioners who can make evidence status visible on screen
 
 ## Editorial boundary
 
-The documentary can hold bold imagination without turning it into an instruction or a fact. The treatment is public development material, not emergency guidance, investment advice, a development proposal or official cultural material.
+The documentary can take the full threat field and frontier theories seriously without converting uncertainty into fact. It can propose a civilisation-scale direction without claiming authority over Country, land, people or future decisions. This is public development material, not emergency guidance, investment advice, an approved development or official cultural material.

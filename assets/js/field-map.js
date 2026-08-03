@@ -5,11 +5,55 @@
       repo: "grain-by-grain",
       ring: "core",
       act: "Acts 1-7",
-      posture: "Public concept spine",
-      role: "The main scale journey from island life and practical preparation to deep time.",
-      use: "Use its Build and Screen lanes, the sand-and-tide motifs, the threat register and the return from cosmic scale to local action.",
+      posture: "Physical and narrative spine",
+      role: "The sequence from Gumpi corridor and tunnel spoil through materials, threats and the civilisation horizon.",
+      use: "Use its threats, corridor, tunnels, alchemy, capital and screen lanes to connect the whole film rather than treating them as separate ideas.",
       publicUrl: "https://auraofintelligence.github.io/grain-by-grain/",
       repoUrl: "https://github.com/auraofintelligence/grain-by-grain"
+    },
+    {
+      title: "Micronova and Geomagnetic Excursions",
+      repo: "micronova-and-excursions",
+      ring: "core",
+      act: "Acts 1, 2, 6, 7",
+      posture: "Frontier case and test programme",
+      role: "The long-form case that catastrophe is a serious design condition and micronova remains a testable frontier hypothesis.",
+      use: "Use its calm, evidence, build, test and earthquake-prediction pages to present the strongest case, the open disputes and a fundable shared-data test.",
+      publicUrl: "https://auraofintelligence.github.io/micronova-and-excursions/",
+      repoUrl: "https://github.com/auraofintelligence/micronova-and-excursions"
+    },
+    {
+      title: "Sandworm Subterranean Systems",
+      repo: "Sandworm-subterranean-systems",
+      ring: "core",
+      act: "Acts 3-6",
+      posture: "Question-led systems proposition",
+      role: "The Gumpi park-and-ride loop, town connections, service corridors, shelter, material flows and surface-care questions.",
+      use: "Use Gumpi as the first practical move, then show how transport and services can grow towards subterranean industry without pretending a route is approved.",
+      publicUrl: "",
+      repoUrl: "https://github.com/auraofintelligence/Sandworm-subterranean-systems"
+    },
+    {
+      title: "Civilisation of Sand",
+      repo: "civilisation-of-sand",
+      ring: "core",
+      act: "Acts 5, 6",
+      posture: "Simulation-first city laboratory",
+      role: "The serious systems model and story world for a vast subterranean civilisation able to thrive through extreme threats.",
+      use: "Use its systems, simulations, concept images and story missions to make the generation city understandable while keeping proposals, models and fiction labelled.",
+      publicUrl: "https://auraofintelligence.github.io/civilisation-of-sand/",
+      repoUrl: "https://github.com/auraofintelligence/civilisation-of-sand"
+    },
+    {
+      title: "GAJRA Earth",
+      repo: "GAJRA-earth-infinity",
+      ring: "core",
+      act: "Acts 1, 6, 7",
+      posture: "Civilisation purpose and values",
+      role: "The joyful, responsible and abundant reason for building beyond short-term survival.",
+      use: "Use as the cultural win condition: longer, healthier life with more time, beauty, play, care, learning and choice while leaving abundance behind.",
+      publicUrl: "https://auraofintelligence.github.io/GAJRA-earth-infinity/",
+      repoUrl: "https://github.com/auraofintelligence/GAJRA-earth-infinity"
     },
     {
       title: "Community Ledger",
@@ -37,10 +81,10 @@
       title: "Gumpi Ferry Open Data Lab",
       repo: "dunwich-gumpi-ferry-terminal-open-data-lab",
       ring: "core",
-      act: "Act 2",
+      act: "Acts 3, 7",
       posture: "Evidence and simulation lab",
-      role: "A grounded way to show movement, dependence, public evidence and the island gateway.",
-      use: "Use ferry arrivals and local movement as the opening systems map, with receipts kept beside imagination.",
+      role: "The grounded evidence layer for movement, parking, dependence and the island gateway.",
+      use: "Use ferry arrivals and local movement to test the need and shape of the first Dunwich loop, with receipts kept beside the concept.",
       publicUrl: "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/",
       repoUrl: "https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab"
     },
@@ -177,28 +221,6 @@
       repoUrl: "https://github.com/auraofintelligence/p4a_xyz"
     },
     {
-      title: "Sandworm Subterranean Systems",
-      repo: "Sandworm-subterranean-systems",
-      ring: "imagination",
-      act: "Acts 5, 6",
-      posture: "Exploratory questions",
-      role: "Transport, shelter, material and coastal-care questions held beside documentary and fiction.",
-      use: "Use one small prototype question before showing the large subterranean horizon.",
-      publicUrl: "",
-      repoUrl: "https://github.com/auraofintelligence/Sandworm-subterranean-systems"
-    },
-    {
-      title: "Civilisation of Sand",
-      repo: "civilisation-of-sand",
-      ring: "imagination",
-      act: "Acts 1, 6",
-      posture: "Science-fiction frame",
-      role: "The subterranean city as a story laboratory for capability, care and consent.",
-      use: "Use marked concept art and story scenes to rehearse possible futures, never as evidence of an approved project.",
-      publicUrl: "https://auraofintelligence.github.io/civilisation-of-sand/",
-      repoUrl: "https://github.com/auraofintelligence/civilisation-of-sand"
-    },
-    {
       title: "Cosmic Nexus",
       repo: "strange-but-true-cosmic-nexus",
       ring: "imagination",
@@ -328,7 +350,7 @@
   if (!grid || !count || !buttons.length) return;
 
   const ringLabels = {
-    core: "First pass",
+    core: "Build spine",
     action: "Local action",
     imagination: "Imagination",
     production: "Production"
