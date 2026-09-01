@@ -1,5 +1,48 @@
 # The Long Game: Grain by Grain
 
+<!-- github-organisation:start -->
+
+## Project links and history
+
+- First substantive build: 1 August 2026.
+- GitHub repository: [grain-by-grain-documentary](https://github.com/auraofintelligence/grain-by-grain-documentary).
+- Public site: [visit the public site](https://auraofintelligence.github.io/grain-by-grain-documentary/).
+
+## Related public projects
+
+Each link below reflects an evidenced family, lineage or direct connection. This project has 20 relevant public connections.
+
+### Direct and other supported connections
+
+- [GAJRA-earth-infinity](https://github.com/auraofintelligence/GAJRA-earth-infinity) - [public page](https://auraofintelligence.github.io/GAJRA-earth-infinity/) - explicit cross-reference.
+
+### Minjerribah sand capability programme and story world
+
+- [amity-outdoor-fitness-grant](https://github.com/auraofintelligence/amity-outdoor-fitness-grant) - [public page](https://auraofintelligence.github.io/amity-outdoor-fitness-grant/) - shared community programme.
+- [amity-point](https://github.com/auraofintelligence/amity-point) - [public page](https://auraofintelligence.github.io/amity-point/) - shared community programme.
+- [amity-sauna-circle](https://github.com/auraofintelligence/amity-sauna-circle) - [public page](https://auraofintelligence.github.io/amity-sauna-circle/) - shared community programme.
+- [amity_stratum](https://github.com/auraofintelligence/amity_stratum) - [public page](https://auraofintelligence.github.io/amity_stratum/) - shared community programme.
+- [Archipelago](https://github.com/auraofintelligence/Archipelago) - [public page](https://auraofintelligence.github.io/Archipelago/) - shared community programme.
+- [ballow-road-sand-screen-hub](https://github.com/auraofintelligence/ballow-road-sand-screen-hub) - [public page](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/) - shared community programme.
+- [civilisation-of-sand](https://github.com/auraofintelligence/civilisation-of-sand) - [public page](https://auraofintelligence.github.io/civilisation-of-sand/) - explicit cross-reference, shared community programme.
+- [community-club-builder-sandy-sports](https://github.com/auraofintelligence/community-club-builder-sandy-sports) - [public page](https://auraofintelligence.github.io/community-club-builder-sandy-sports/) - shared community programme.
+- [dunwich-gumpi-ferry-terminal-open-data-lab](https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab) - [public page](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/) - shared community programme.
+- [film-club-documentary-builders](https://github.com/auraofintelligence/film-club-documentary-builders) - [public page](https://auraofintelligence.github.io/film-club-documentary-builders/) - explicit cross-reference, shared community programme.
+- [grain-by-grain](https://github.com/auraofintelligence/grain-by-grain) - [public page](https://auraofintelligence.github.io/grain-by-grain/) - explicit cross-reference, shared community programme.
+
+### Ready SET and Minjerribah media network
+
+- [explorer-music-video-lab](https://github.com/auraofintelligence/explorer-music-video-lab) - [public page](https://auraofintelligence.github.io/explorer-music-video-lab/) - shared community programme.
+- [minjerribah-screen-media-network](https://github.com/auraofintelligence/minjerribah-screen-media-network) - [public page](https://auraofintelligence.github.io/minjerribah-screen-media-network/) - shared community programme.
+- [quandamooka-country-events-engine](https://github.com/auraofintelligence/quandamooka-country-events-engine) - [public page](https://auraofintelligence.github.io/quandamooka-country-events-engine/) - shared community programme.
+- [quandamooka-film-festival](https://github.com/auraofintelligence/quandamooka-film-festival) - [public page](https://auraofintelligence.github.io/quandamooka-film-festival/) - shared community programme.
+- [ready-set-co-op-hyperlocal-media](https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media) - [public page](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/) - shared community programme.
+- [ready-set-co-op-trust-hub](https://github.com/auraofintelligence/ready-set-co-op-trust-hub) - [public page](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/) - shared community programme.
+- [straddie-content-assets-kit](https://github.com/auraofintelligence/straddie-content-assets-kit) - [public page](https://auraofintelligence.github.io/straddie-content-assets-kit/) - shared community programme.
+- [straddie-news](https://github.com/auraofintelligence/straddie-news) - [public page](https://auraofintelligence.github.io/straddie-news/) - shared community programme.
+
+<!-- github-organisation:end -->
+
 A public, multi-page planning site for a 90-minute documentary about solving the full existential-threat field through a useful, seven-generation civilisation build.
 
 The story begins with life, death, emergence and entropy, then holds ordinary, global, cosmic, frontier, mythic and science-fiction threats in one design field. Its physical sequence starts with a Dunwich park-and-ride tunnel loop, turns excavated sand into useful infrastructure, extends transport and services between towns, grows subterranean industry and follows that direction towards a 20-million-person worldship. GAJRA Earth supplies the essence: survival in service of joyful responsible abundance.
